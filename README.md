@@ -2,7 +2,7 @@ Marktegn er en skrifttype med kun 1 tegn, navnlig tegnet for den gamle danske m�
 
 Brugbart til slægtsforskning, m.v.
 
-Flemming Chr. Nielsen har også en skrifttype med et dansk marktegn i en anden form på sin hjemmeside: [mardi.dk/kierkegaard/](https://mardi.dk/kierkegaard/) (rul ned til _Et ord om Mark Banko_). Vælg selv afhængig af hvilket der passer bedst til skrifttypen i resten af dit dokument! 😀
+Flemming Chr. Nielsen har også en skrifttype med et dansk marktegn i en anden form på sin hjemmeside: [mardi.dk/slaegtsforskning/](https://mardi.dk/slaegtsforskning/). Vælg selv afhængig af hvilket der passer bedst til skrifttypen i resten af dit dokument! 😀
 
 Kan frit deles så længe ophavsoplysninger viderebringes (se [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) eller [license.txt](license.txt) her i repositoriet).
 
